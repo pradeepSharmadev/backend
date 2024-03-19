@@ -15,7 +15,7 @@ app.get("/home", (req, res) => {
 });
 
 // api from github and passing json file
-const gitData = {
+const githubProfile = {
   login: "pradeepSharmadev",
   id: 112090779,
   node_id: "U_kgDOBq5emw",
@@ -55,7 +55,7 @@ const gitData = {
 };
 
 app.get("/githubpradeep", (req, res) => {
-  res.json(gitData);
+  res.json(githubProfile);
 });
 
 app.listen(PORT, () => {
