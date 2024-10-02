@@ -384,10 +384,7 @@ ul{
             </h3>
             <!--Description  -->
             <p>
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptas
-                accusamus tempore temporibus rem amet laudantium animi optio
-                voluptatum. Natus obcaecati unde porro nostrum ipsam itaque impedit
-                incidunt rem quisquam eos!
+                Savor the juiciest, most flavorful burgers in town! Made with fresh, premium ingredients and served hot off the grill. Whether you crave a classic cheeseburger or a gourmet specialty, we have got something to satisfy every appetite. Bite into happiness today!
             </p>
             
             <!-- CTA -->
