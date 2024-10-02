@@ -393,7 +393,7 @@ ul{
         <!-- Hero image -->
         
         <div class="image">
-            <img src="burger-image.png" alt=" " />
+            <img src="https://png.pngtree.com/png-clipart/20221001/ourmid/pngtree-fast-food-big-ham-burger-png-image_6244235.png" alt=" " />
         </div>
         </section>
     </section>
