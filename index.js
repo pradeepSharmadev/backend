@@ -364,7 +364,7 @@ ul{
             <h3>Fastest F<span>oo</span>d For , Instant</h3>
             <h3><span>Hunger</span></h3>
         </div>
-        <div><p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Commodi nulla esse beatae natus sed in? Sunt voluptate illum sed nostrum ex mollitia nulla voluptatibus totam quis! Veniam soluta perspiciatis alias!</p></div>
+        <div><p>Savor the juiciest, most flavorful burgers in town! Made with fresh, premium ingredients and served hot off the grill. Whether you crave a classic cheeseburger or a gourmet specialty, we have got something to satisfy every appetite. Bite into happiness today!</p></div>
         <div>
             <button>ORDER NOW</button>
         </div>
